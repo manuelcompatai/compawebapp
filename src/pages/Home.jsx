@@ -72,7 +72,7 @@ export default function Home() {
 
           <img
             className="home-hero__logo"
-            src="https://compatai.mx/assets/logo/Logo_compaTAI.png"
+            src="https://compatai.lat/assets/logo/Logo_compaTAI.png"
             alt="compaTAI"
           />
 
@@ -87,14 +87,14 @@ export default function Home() {
             Training Autonomous Vehicles for the world's most unpredictable cities.
           </p>
 
-          <div className="home-hero__ctas">
+          /*<div className="home-hero__ctas">
             <a href="https://demo.compatai.mx" className="btn btn--primary">
               Live Demo
             </a>
             <a href="https://store.compatai.mx" className="btn btn--secondary">
               Buy Video Sets
             </a>
-          </div>
+          </div>*/
 
         </div>
 
