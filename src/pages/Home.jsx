@@ -76,7 +76,7 @@ export default function Home() {
             alt="compaTAI"
           />
 
-          <p className="home-hero__eyebrow">AI Training Data · CDMX Edge Cases</p>
+          <p className="home-hero__eyebrow">AI Training Data CDMX Edge Cases</p>
 
           <h1 className="home-hero__title">
             Mastering{' '}
