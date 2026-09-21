@@ -6,8 +6,7 @@ const isStore = host.startsWith('store.')
 const isHome  = !isDemo && !isStore
 
 const LINKS = [
-  { href: 'https://compatai.mx',        label: 'Home',        active: isHome  },
-  { href: 'https://demo.compatai.mx',   label: 'Live Demo',   active: isDemo  },
+  { href: 'https://compatai.lat',        label: 'Home',        active: isHome  }
 ]
 
 export default function Navbar() {
@@ -15,7 +14,7 @@ export default function Navbar() {
     <nav className="navbar">
       <div className="nav-inner">
 
-        <a href="https://compatai.mx" className="nav-logo" aria-label="compaTAI home">
+        <a href="https://compatai.lat" className="nav-logo" aria-label="compaTAI home">
           <img
             src="/assets/logo/compaTAI_logo_75x75.png"
             alt="compaTAI"
@@ -36,7 +35,7 @@ export default function Navbar() {
 
           <li>
             <a
-              href="mailto:social.media@compatai.mx"
+              href="mailto:social.media@compatai.lat"
               className="nav-link nav-cta"
             >
               Contact
