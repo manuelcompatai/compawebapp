@@ -86,16 +86,6 @@ export default function Home() {
           <p className="home-hero__sub">
             Training Autonomous Vehicles for the world's most unpredictable cities.
           </p>
-
-          /*<div className="home-hero__ctas">
-            <a href="https://demo.compatai.mx" className="btn btn--primary">
-              Live Demo
-            </a>
-            <a href="https://store.compatai.mx" className="btn btn--secondary">
-              Buy Video Sets
-            </a>
-          </div>*/
-
         </div>
 
         {/* Scroll hint */}
